@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\oop task 2\oop task 2\bin\Debug\net6.0\oop task 2.exe
+C:\Users\DELL\source\repos\oop task 2\oop task 2\bin\Debug\net6.0\oop task 2.deps.json
+C:\Users\DELL\source\repos\oop task 2\oop task 2\bin\Debug\net6.0\oop task 2.runtimeconfig.json
+C:\Users\DELL\source\repos\oop task 2\oop task 2\bin\Debug\net6.0\oop task 2.dll
+C:\Users\DELL\source\repos\oop task 2\oop task 2\bin\Debug\net6.0\oop task 2.pdb
+C:\Users\DELL\source\repos\oop task 2\oop task 2\obj\Debug\net6.0\oop task 2.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\oop task 2\oop task 2\obj\Debug\net6.0\oop task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\oop task 2\oop task 2\obj\Debug\net6.0\oop task 2.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\oop task 2\oop task 2\obj\Debug\net6.0\oop task 2.AssemblyInfo.cs
+C:\Users\DELL\source\repos\oop task 2\oop task 2\obj\Debug\net6.0\oop task 2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\oop task 2\oop task 2\obj\Debug\net6.0\oop task 2.dll
+C:\Users\DELL\source\repos\oop task 2\oop task 2\obj\Debug\net6.0\refint\oop task 2.dll
+C:\Users\DELL\source\repos\oop task 2\oop task 2\obj\Debug\net6.0\oop task 2.pdb
+C:\Users\DELL\source\repos\oop task 2\oop task 2\obj\Debug\net6.0\oop task 2.genruntimeconfig.cache
+C:\Users\DELL\source\repos\oop task 2\oop task 2\obj\Debug\net6.0\ref\oop task 2.dll
